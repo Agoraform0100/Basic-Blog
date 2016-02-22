@@ -1,0 +1,19 @@
+{
+  "name": "basic-blog",
+  "version": "1.0.0",
+  "description": "MY simple blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Agoraform0100/Basic-Blog.git"
+  },
+  "author": "Jeremy Flood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Agoraform0100/Basic-Blog/issues"
+  },
+  "homepage": "https://github.com/Agoraform0100/Basic-Blog#readme"
+}
