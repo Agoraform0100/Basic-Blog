@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Agoraform0100/Basic-Blog/issues"
   },
-  "homepage": "https://github.com/Agoraform0100/Basic-Blog#readme"
+  "homepage": "https://github.com/Agoraform0100/Basic-Blog#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
