@@ -1,4 +1,4 @@
-console.log("Hello World")
+
 var express = require('express')
 var app = express()
 
@@ -8,7 +8,7 @@ app.get('/', function (req, res) {
 app.get('/goodbye', function (req, res) {
   res.send('Hello Goodbye')
 })
-app.use(express.static('public'));
-app.use(express.static('files'));
 
+app.use(express.static('landing.html'));
+app.use(express.static('stylesheet.css'));
 app.listen(3000)
